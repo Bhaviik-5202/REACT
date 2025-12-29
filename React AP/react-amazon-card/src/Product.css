@@ -1,0 +1,18 @@
+.OTDiv {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.Product {
+    color: black;
+    background-color :cornsilk;
+    height: 150px;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 20px;
+    /* padding: 0 5px 0 5px; */
+}

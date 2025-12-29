@@ -1,0 +1,23 @@
+.LudoGame {
+    border: 1px solid white;
+    height: auto;
+    width: 100%;
+    padding: 10px;
+}
+
+.Blue {
+    background-color: blue;
+}
+
+.Yellow {
+    background-color: yellow;
+    color: black;
+}
+
+.Green {
+    background-color: green;
+}
+
+.Red {
+    background-color: red;
+}
